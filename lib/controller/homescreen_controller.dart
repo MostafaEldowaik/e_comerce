@@ -1,4 +1,4 @@
-import 'package:e_comerce_app/data/datasource/fire_base_remote/firebase_store_crud.dart';
+import 'package:e_comerce/data/datasource/fire_base_remote/firebase_store_crud.dart';
 import 'package:get/get.dart';
 import '../core/constant/constanst.dart';
 import '../core/services/services.dart';
