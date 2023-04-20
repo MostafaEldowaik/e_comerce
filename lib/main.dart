@@ -13,12 +13,12 @@ void main() async {
   WidgetsFlutterBinding.ensureInitialized();
   await initialServices();
   Map firebaseConfig = {
-  "apiKey": "AIzaSyDQx5uxxD57XF5V_0RL8vJB9RugymxbX4Y",
-  "authDomain": "ecomerceapp-ad5a4.firebaseapp.com",
-  "projectId": "ecomerceapp-ad5a4",
-  "storageBucket": "ecomerceapp-ad5a4.appspot.com",
-  "messagingSenderId": "322090319557",
-  "appId": "1:322090319557:web:b8c2893e51afa22b847aac"
+  "apiKey": "AIzaSyAYxn_Pbv3gXiPJZL-PbsP7MlZyMR4YAZU",
+  "authDomain": "ecomerce-7d40a.firebaseapp.com",
+  "projectId": "ecomerce-7d40a",
+  "storageBucket": "ecomerce-7d40a.appspot.com",
+  "messagingSenderId": "1069942214247",
+  "appId": "1:1069942214247:web:f016d2f4ba6067843d8ec2"
   };
 
 

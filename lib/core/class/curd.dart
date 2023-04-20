@@ -1,5 +1,5 @@
 import 'dart:convert';
-import 'package:e_comerce_app/core/functions/checkinternet.dart';
+import 'package:e_comerce/core/functions/checkinternet.dart';
 import 'package:dartz/dartz.dart';
 import '../../../core/class/stautusrequest.dart';
 import 'package:http/http.dart' as http;

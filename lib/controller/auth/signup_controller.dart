@@ -1,4 +1,4 @@
-import 'package:e_comerce_app/data/datasource/fire_base_remote/firebase_auth.dart';
+import 'package:e_comerce/data/datasource/fire_base_remote/firebase_auth.dart';
 import 'package:firebase_auth/firebase_auth.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:get/get.dart';

@@ -1,17 +1,17 @@
 
 import 'package:cloud_firestore/cloud_firestore.dart';
-import 'package:e_comerce_app/view/screen/auth/email_verification_signin_signup.dart';
-import 'package:e_comerce_app/view/screen/auth/forgetpassword/forgetpassword.dart';
-import 'package:e_comerce_app/view/screen/auth/forgetpassword/resetpassword.dart';
-import 'package:e_comerce_app/view/screen/auth/forgetpassword/success_resetpassword.dart';
-import 'package:e_comerce_app/view/screen/auth/forgetpassword/verifycode.dart';
-import 'package:e_comerce_app/view/screen/auth/login.dart';
-import 'package:e_comerce_app/view/screen/auth/signup.dart';
-import 'package:e_comerce_app/view/screen/auth/success_signup.dart';
-import 'package:e_comerce_app/view/screen/auth/verifycodesignup.dart';
-import 'package:e_comerce_app/view/screen/home_sceen.dart';
-import 'package:e_comerce_app/view/screen/language.dart';
-import 'package:e_comerce_app/view/screen/onboarding.dart';
+import 'package:e_comerce/view/screen/auth/email_verification_signin_signup.dart';
+import 'package:e_comerce/view/screen/auth/forgetpassword/forgetpassword.dart';
+import 'package:e_comerce/view/screen/auth/forgetpassword/resetpassword.dart';
+import 'package:e_comerce/view/screen/auth/forgetpassword/success_resetpassword.dart';
+import 'package:e_comerce/view/screen/auth/forgetpassword/verifycode.dart';
+import 'package:e_comerce/view/screen/auth/login.dart';
+import 'package:e_comerce/view/screen/auth/signup.dart';
+import 'package:e_comerce/view/screen/auth/success_signup.dart';
+import 'package:e_comerce/view/screen/auth/verifycodesignup.dart';
+import 'package:e_comerce/view/screen/home_sceen.dart';
+import 'package:e_comerce/view/screen/language.dart';
+import 'package:e_comerce/view/screen/onboarding.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 

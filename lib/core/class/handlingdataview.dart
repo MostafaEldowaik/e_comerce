@@ -1,4 +1,4 @@
-import 'package:e_comerce_app/core/class/stautusrequest.dart';
+import 'package:e_comerce/core/class/stautusrequest.dart';
 import 'package:flutter/material.dart';
 import 'package:lottie/lottie.dart';
 

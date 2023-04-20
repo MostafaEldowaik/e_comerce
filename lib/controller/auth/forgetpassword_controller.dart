@@ -1,5 +1,5 @@
 
-import 'package:e_comerce_app/view/screen/auth/forgetpassword/verifycode.dart';
+import 'package:e_comerce/view/screen/auth/forgetpassword/verifycode.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:get/get.dart';
 

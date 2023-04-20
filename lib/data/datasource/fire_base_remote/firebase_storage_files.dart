@@ -1,5 +1,5 @@
 import 'package:dartz/dartz.dart';
-import 'package:e_comerce_app/core/error/failure.dart';
+import 'package:e_comerce/core/error/failure.dart';
 import 'package:firebase_storage/firebase_storage.dart';
 import 'package:flutter/material.dart';
 

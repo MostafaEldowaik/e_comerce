@@ -1,6 +1,6 @@
 import 'package:cloud_firestore/cloud_firestore.dart';
-import 'package:e_comerce_app/core/constant/constanst.dart';
-import 'package:e_comerce_app/data/model/item_model.dart';
+import 'package:e_comerce/core/constant/constanst.dart';
+import 'package:e_comerce/data/model/item_model.dart';
 
 class FirebaseStoreCrudOperationDataSource {
   // === === Categories ====//

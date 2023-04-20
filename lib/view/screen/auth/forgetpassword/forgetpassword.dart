@@ -1,6 +1,6 @@
 
-import 'package:e_comerce_app/controller/auth/forgetpassword_controller.dart';
-import 'package:e_comerce_app/core/constant/color.dart';
+import 'package:e_comerce/controller/auth/forgetpassword_controller.dart';
+import 'package:e_comerce/core/constant/color.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 

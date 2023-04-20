@@ -1,6 +1,6 @@
-import 'package:e_comerce_app/core/components/alert_dialog.dart';
-import 'package:e_comerce_app/core/constant/routes.dart';
-import 'package:e_comerce_app/data/datasource/fire_base_remote/firebase_auth.dart';
+import 'package:e_comerce/core/components/alert_dialog.dart';
+import 'package:e_comerce/core/constant/routes.dart';
+import 'package:e_comerce/data/datasource/fire_base_remote/firebase_auth.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 

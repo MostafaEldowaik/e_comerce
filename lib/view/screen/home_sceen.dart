@@ -1,7 +1,7 @@
-import 'package:e_comerce_app/core/constant/color.dart';
-import 'package:e_comerce_app/core/constant/constanst.dart';
-import 'package:e_comerce_app/data/datasource/fire_base_remote/firebase_store_crud.dart';
-import 'package:e_comerce_app/data/model/category_model.dart';
+import 'package:e_comerce/core/constant/color.dart';
+import 'package:e_comerce/core/constant/constanst.dart';
+import 'package:e_comerce/data/datasource/fire_base_remote/firebase_store_crud.dart';
+import 'package:e_comerce/data/model/category_model.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import '../../controller/homescreen_controller.dart';

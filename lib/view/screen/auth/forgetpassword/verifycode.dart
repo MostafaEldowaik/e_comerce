@@ -1,5 +1,5 @@
-import 'package:e_comerce_app/controller/auth/verifycode_controller.dart';
-import 'package:e_comerce_app/data/datasource/fire_base_remote/firebase_auth.dart';
+import 'package:e_comerce/controller/auth/verifycode_controller.dart';
+import 'package:e_comerce/data/datasource/fire_base_remote/firebase_auth.dart';
 import 'package:flutter/material.dart';
 // import 'package:flutter_otp_text_field/flutter_otp_text_field.dart';
 import 'package:get/get.dart';

@@ -31,54 +31,54 @@ dependencies:
   flutter:
     sdk: flutter
     # Use with the CupertinoIcons class for iOS style icons.
-    get:
-    # DateTime
-    jiffy:
-    intl:
-    http:
+  get:
+        # DateTime
+  jiffy:
+  intl:
+  http:
     # Images
-    cached_network_image:
-    image_picker:
+  cached_network_image:
+  image_picker:
     # Animate
-    show_up_animation:
-    auto_animated:
+  show_up_animation:
+  auto_animated:
     # Google Map
-    flutter_polyline_points:
-    google_maps_flutter:
-    geolocator:
-    geocoding:
+  flutter_polyline_points:
+  google_maps_flutter:
+  geolocator:
+  geocoding:
     #firebase_messaging: ^11.2.7
     #flutter_local_notifications: ^9.5.3+1
-    sqflite:
-    shared_preferences:
-    path:
+  sqflite:
+  shared_preferences:
+  path:
     # Qrcode
-    qr_flutter:
-    scan:
-    grouped_list:
-    url_launcher:
-    dropdown_search:
-    badges:
-    lottie:
+  qr_flutter:
+  scan:
+  grouped_list:
+  url_launcher:
+  dropdown_search:
+  badges:
+  lottie:
     # Icon
     # flutter_svg: ^1.0.3
-    font_awesome_flutter:
-    fluttericon:
-    dartz:
+  font_awesome_flutter:
+  fluttericon:
+  dartz:
     # Google Auth
-    google_sign_in:
-    device_preview:
-    responsive_builder:
-    image_pickers:
-    flutter_svg:
-    flutter_otp_text_field:
-    firebase_core:
-    cloud_firestore:
-    firebase_auth:
-    firebase_auth_web:
-    firebase_core_web:
-    email_auth:
-    firebase_storage:
+  google_sign_in:
+  device_preview:
+  responsive_builder:
+  image_pickers:
+  flutter_svg:
+  flutter_otp_text_field:
+  firebase_auth: 4.2.2
+  firebase_auth_web: 5.2.2
+  firebase_core_web: 2.2.1
+  firebase_core:
+  cloud_firestore:
+  email_auth:
+  firebase_storage:
 
 
   # The following adds the Cupertino Icons font to your application.
@@ -108,14 +108,14 @@ flutter:
   uses-material-design: true
 
     # To add assets to your application, add an assets section, like this:
-    assets:
+  assets:
       - assets/images/
       - assets/lottie/
 
     #   - images/a_dot_ham.jpeg
 
 
-    fonts:
+  fonts:
       - family: Cairo-Bold
         fonts:
           - asset: assets/fonts/Cairo/Cairo-Bold.ttf

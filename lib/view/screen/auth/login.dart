@@ -1,5 +1,5 @@
-import 'package:e_comerce_app/core/constant/routes.dart';
-import 'package:e_comerce_app/view/screen/auth/email_verification_signin_signup.dart';
+import 'package:e_comerce/core/constant/routes.dart';
+import 'package:e_comerce/view/screen/auth/email_verification_signin_signup.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 

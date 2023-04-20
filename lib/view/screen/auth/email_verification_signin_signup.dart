@@ -1,5 +1,5 @@
-import 'package:e_comerce_app/controller/auth/email_verification_signin_signup_controller.dart';
-import 'package:e_comerce_app/core/constant/routes.dart';
+import 'package:e_comerce/controller/auth/email_verification_signin_signup_controller.dart';
+import 'package:e_comerce/core/constant/routes.dart';
 
 import 'package:firebase_auth/firebase_auth.dart';
 import 'package:flutter/material.dart';
